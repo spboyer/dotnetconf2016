@@ -10,7 +10,6 @@ using dotnetconf.Model;
 namespace dotnetconf.Controllers
 {
     [Route("api/[controller]")]
-    [Route("api/[controller]")]
     public class PersonController : Controller
     {
         private int sample = 75;
